@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DBB7C973-1C87-65EC-07C9-E629C1864CEA}") = "Mr Robot", "Assembly-CSharp-firstpass.csproj", "{605F1C51-39DF-B197-1829-6DE9FEF850F1}"
+EndProject
+Project("{DBB7C973-1C87-65EC-07C9-E629C1864CEA}") = "Mr Robot", "Assembly-CSharp.csproj", "{A5390701-F748-48E4-DBF2-3069C2BE1F3F}"
+EndProject
+Project("{DBB7C973-1C87-65EC-07C9-E629C1864CEA}") = "Mr Robot", "Assembly-CSharp-Editor.csproj", "{E760FC78-9301-9452-A663-6EE54C0FB8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605F1C51-39DF-B197-1829-6DE9FEF850F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605F1C51-39DF-B197-1829-6DE9FEF850F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605F1C51-39DF-B197-1829-6DE9FEF850F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605F1C51-39DF-B197-1829-6DE9FEF850F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5390701-F748-48E4-DBF2-3069C2BE1F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5390701-F748-48E4-DBF2-3069C2BE1F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5390701-F748-48E4-DBF2-3069C2BE1F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5390701-F748-48E4-DBF2-3069C2BE1F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E760FC78-9301-9452-A663-6EE54C0FB8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E760FC78-9301-9452-A663-6EE54C0FB8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E760FC78-9301-9452-A663-6EE54C0FB8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E760FC78-9301-9452-A663-6EE54C0FB8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
